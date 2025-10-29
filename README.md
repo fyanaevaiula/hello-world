@@ -1,3 +1,3 @@
-# hello-world
+# About my first project on GitHub
 Этот  репозиторий предназначен для практики GitHub Flow
-Текущий проект №1
+
